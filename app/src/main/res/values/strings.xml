@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Kalkulyator</string>
+    <string name="nav_menu">Menyu</string>
+    <string name="nav_history">Hisoblashlar tarixi</string>
+    <string name="nav_about">Biz haqimizda</string>
+    <string name="nav_app_subtitle">Smart Arifmetik Kalkulyator</string>
+    <string name="history_title">Tarix</string>
+    <string name="history_empty_title">Tarix bo‘sh</string>
+    <string name="history_empty_desc">Hisoblangan amallar bu yerda saqlanadi</string>
+    <string name="history_clear_all">Tozalash</string>
+    <string name="history_clear_dialog_title">Tarixni tozalash</string>
+    <string name="history_clear_dialog_msg">Barcha hisoblashlar tarixini o‘chirmoqchimisiz?</string>
+    <string name="history_item_deleted">Amal o‘chirildi</string>
+    <string name="history_all_cleared">Barcha tarix tozalandi</string>
+    <string name="copied_to_clipboard">Nusxalandi</string>
+    <string name="about_title">Biz haqimizda</string>
+    <string name="about_version">Versiya 1.0</string>
+    <string name="about_desc">Ushbu dastur zamonaviy va qulay arifmetik kalkulyator bo‘lib, barcha hisoblashlaringizni SQLite ma\'lumotlar bazasida xavfsiz saqlaydi hamda istalgan paytda ko‘rib chiqish imkonini beradi.</string>
+    <string name="about_features_title">Asosiy imkoniyatlar</string>
+    <string name="feature_1">⚡ Aniq arifmetik hisob-kitoblar (+, −, ×, ÷, %)</string>
+    <string name="feature_2">💾 SQLite ichki bazasida avtomatik tarix saqlash</string>
+    <string name="feature_3">📂 Qulay vertikal navigatsiya (Side Menu)</string>
+    <string name="feature_4">📋 Natijalarni bir bosishda nusxalash</string>
+    <string name="feature_5">🎨 Zamonaviy va ko‘zga yoqimli Dark dizayn</string>
+    <string name="about_developer_title">Dasturchi</string>
+    <string name="about_developer_name">Android Developer Team</string>
+    <string name="yes">Ha</string>
+    <string name="no">Yo‘q</string>
+</resources>

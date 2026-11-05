@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Calculator Premium Dark Theme Colors -->
+    <color name="calc_bg">#0E1017</color>
+    <color name="calc_surface">#161926</color>
+    <color name="calc_surface_variant">#1E2235</color>
+    <color name="calc_stroke">#282D46</color>
+
+    <!-- Button colors -->
+    <color name="btn_num_bg">#1D2132</color>
+    <color name="btn_num_text">#F8FAFC</color>
+
+    <color name="btn_func_bg">#272D42</color>
+    <color name="btn_func_text">#22D3EE</color>
+
+    <color name="btn_op_bg">#FF8800</color>
+    <color name="btn_op_text">#FFFFFF</color>
+
+    <color name="btn_equals_bg">#10B981</color>
+    <color name="btn_equals_text">#FFFFFF</color>
+
+    <!-- Display & Text colors -->
+    <color name="display_expr_text">#94A3B8</color>
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="text_muted">#64748B</color>
+
+    <!-- Accent colors -->
+    <color name="accent_primary">#6366F1</color>
+    <color name="accent_cyan">#06B6D4</color>
+    <color name="accent_danger">#EF4444</color>
+
+    <!-- Drawer Navigation colors -->
+    <color name="drawer_bg">#111420</color>
+    <color name="drawer_item_bg">#181C2B</color>
+</resources>
